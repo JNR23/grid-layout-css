@@ -6,6 +6,12 @@
 
 ### No curso aprendi como criar um layout complexo e responsivo no **CSS** utilizando **Grid Layout** e ainda mantendo a marcação do HTML limpa.
 
+<br>
+
+<h1 align="center">
+    <a href="https://jnr23.github.io/grid-layout-css/">Site do projeto criado através do curso</a>
+</h1>
+
 ---
 
 ## 🔔 [CSS Grid Layout - Curso Completo](https://www.youtube.com/watch?v=hKXOVD2Yrj8&t=434s)
